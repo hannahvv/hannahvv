@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @hannahvv
-- 👀 I’m interested in coding, baking, etc.
-- 🌱 I’m currently learning different coding languages.
 - 📫 How to reach me hvaccaro02@gmail.com
 
 <!---
