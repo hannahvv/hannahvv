@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @hannahvv
-- 📫 How to reach me hvaccaro02@gmail.com
+
 
 <!---
 hannahvv/hannahvv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
